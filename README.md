@@ -1,5 +1,4 @@
 # Sales-Data-Insights
-# Sales Data Insights
 
 A Python project using Pandas and NumPy to analyze sales data from an Excel dataset. This script cleans missing values, computes key metrics, and provides statistical insights into sales performance.
 
